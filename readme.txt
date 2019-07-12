@@ -3,8 +3,8 @@ Contributors: atlaspolicy, upnrunn, stegel
 Tags: powerbi-embedded, wordpress-plugin, powerbi, wordpress
 Requires at least: 4.4.0
 Requires PHP: 5.2.4
-Tested up to: 5.2.0
-Stable tag: 1.1.0
+Tested up to: 5.2.2
+Stable tag: 1.1.1
 License: GNU General Public License v3.0
 License URI: https://www.gnu.org/licenses/lgpl.html
 

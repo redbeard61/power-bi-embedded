@@ -10,9 +10,9 @@
 
  **Tags:** powerbi-embedded, wordpress-plugin, powerbi, wordpress
 
- **Tested up to:** 4.9.8
+ **Tested up to:** 5.2.2
 
- **Stable tag:** 1.1.0
+ **Stable tag:** 1.1.1
 
  **License:** GNU General Public License v3.0
 
